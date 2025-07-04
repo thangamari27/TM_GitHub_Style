@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 👋 About Me:🔭 I’m currently working on improving my web development skills and building exciting projects.<br>
+👯 I’m looking to collaborate on web development and open-source projects.<br>
+🤝 I’m looking for help with learning advanced backend development and real-time applications.<br>
+🌱 I’m currently learning Node.js, Express, and database management.<br>
+💬 Ask me about web development, React, Node.js, or anything related to full-stack development.<br>
+⚡  I love creating simple, user-friendly designs and exploring new tech tools!
 
 
 ## 🌐 Socials:
